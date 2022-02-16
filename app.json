@@ -1,0 +1,20 @@
+{
+  "name":"foodapp",
+  "displayName": "Health e-care",
+  "connectyCubeConfig": [
+    {
+      "appId": 3241,
+      "authKey": "gf5ZtsJr9xRahTf",
+      "authSecret": "qAZ3gutE64Fa6Wp"
+    },
+    { "chat": {
+      "streamManagement": {
+        "enable": true
+      }
+    },
+      "debug": {
+        "mode": 0
+      } 
+    }
+  ]
+}

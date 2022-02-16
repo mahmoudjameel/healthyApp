@@ -1,0 +1,28 @@
+{
+  "name": "RNKommunicateChat",
+  "version": "1.0.0",
+  "summary": "React Native SDK for Kommunicate customer support live chat",
+  "description": "RNKommunicateChat",
+  "homepage": "https://kommunicate.io",
+  "license": "BSD-3",
+  "authors": {
+    "author": "ashish@kommunicate.io"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/Kommunicate-io/Kommunicate-React-Native-SDK",
+    "tag": "master"
+  },
+  "source_files": "ios/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "Kommunicate": [
+      "~> 6.0.0"
+    ]
+  }
+}

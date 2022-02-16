@@ -1,0 +1,6 @@
+framework module ReactNativeLocalization {
+  umbrella header "ReactNativeLocalization-umbrella.h"
+
+  export *
+  module * { export * }
+}
